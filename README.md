@@ -5,9 +5,9 @@
 #### Welcome to my GitHub. Have a look around :) 
 
 
-Check out all the tomfoolery
+Enjoy the tomfoolery
 
 
-<p align="center"> 
-  <img src="./img/toystory.jpg">
-</p>
+[Also! check out this article written about me](https://www.latlmes.com/breaking/esther-csoke-is-making-headlines-1)
+
+
